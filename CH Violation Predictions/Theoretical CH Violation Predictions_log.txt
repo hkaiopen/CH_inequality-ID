@@ -1,0 +1,11 @@
+Table 1: Theoretical predictions for CH violation under partially entangled states
+----------------------------------------------------------------------
+η (deg)    Concurrence C   QM prediction   ID prediction  
+----------------------------------------------------------------------
+45         1.000           0.2071          0.2071         
+40         0.985           0.2018          0.2044         
+30         0.866           0.1614          0.1830         
+20         0.643           0.0944          0.1409         
+10         0.342           0.0284          0.0792         
+----------------------------------------------------------------------
+Note: At η=45° (maximal entanglement), both predictions coincide at 0.2071.
